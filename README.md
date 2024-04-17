@@ -1,0 +1,1 @@
+Get a random color when ever you go to the site then get the hex code click reload to get a new color.
